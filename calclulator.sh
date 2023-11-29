@@ -1,1 +1,6 @@
 Addition
+
+Substraction
+
+Multiplication
+
